@@ -9,7 +9,7 @@
 - 📫 How to reach me
   - 📧 e-mail: raphael_dorta@hotmail.com
   - 📸 [Instagram](https://www.instagram.com/raphadorta/) : @raphadorta
-  - 🇮🇳 [LinkedIn]([https://www.google.com](https://www.linkedin.com/in/raphael-siqueira-dorta/)
+  - 🇮🇳 [LinkedIn](https://www.linkedin.com/in/raphael-siqueira-dorta/)
 - 😄 Pronouns: He
 - ⚡ Fun fact: I like movies and series, learning new things, I'm passionate about São Paulo FC. The phrase that defines me: "Take with you only what was good", a phrase that I have tattooed to always remind me of that.
 
