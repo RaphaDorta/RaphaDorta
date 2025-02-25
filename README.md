@@ -31,12 +31,6 @@ Desenvolvedor Web com experiência desde 2024, atuando também em **Suporte Téc
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=RaphaDorta&show_icons=true&hide_title=true&count_private=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
-### 📈 **Atividade no GitHub**
-<p align="center">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=RaphaDorta&theme=tokyonight" alt="GitHub Streak" />
-  <img width="48%" src="https://github-readme-activity-graph.cyclic.app/graph?username=RaphaDorta&theme=tokyo-night" alt="GitHub Activity" />
-</p>
-
 ---
 
 ### 🎓 **Formação**
