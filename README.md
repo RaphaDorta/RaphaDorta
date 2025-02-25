@@ -26,13 +26,19 @@ Desenvolvedor Web com experiência desde 2024, atuando também em **Suporte Téc
 ---
 
 ### 📊 **Linguagens Mais Usadas**
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaDorta&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaDorta&layout=compact&theme=tokyonight&langs_count=6)
 
 ---
 
 ### 🎓 **Formação**
 - **Pós-graduação** | **Ciência de Dados** (em andamento)
 - **Graduação** | **Análise e Desenvolvimento de Sistemas** (em andamento)
+
+---
+
+### 📈 **Projetos**
+- [Projeto 1](https://github.com/RaphaDorta/projeto1)  
+- [Projeto 2](https://github.com/RaphaDorta/projeto2)
 
 ---
 
