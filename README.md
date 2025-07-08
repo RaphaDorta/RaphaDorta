@@ -35,7 +35,8 @@ Desenvolvedor Web com experiência desde 2024, atuando também em **Suporte Téc
 
 ### 🎓 **Formação**
 - **Pós-graduação** | **Ciência de Dados** (em andamento)
-- **Graduação** | **Análise e Desenvolvimento de Sistemas** (em andamento)
+- **Graduação** | **Análise e Desenvolvimento de Sistemas**
+- **Graduação** | **Gestão Empresarial**
 
 ---
 
