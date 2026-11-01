@@ -94,8 +94,8 @@ Experiência em suporte técnico, atendimento, diagnóstico de incidentes e reso
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=RaphaDorta&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas do GitHub"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaDorta&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Linguagens mais utilizadas"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=RaphaDorta&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaDorta&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Linguagens mais utilizadas"/>
 </p>
 
 ---
